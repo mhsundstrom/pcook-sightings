@@ -1,0 +1,10 @@
+- date: 2014-06-30
+- country: United States
+- state: Alaska
+- location: Pioneer Park, Fairbanks
+# Birds or six-letter codes, one per line.
+# 6/30/14 Pioneer Park, Fairbanks, AK
+- amerob
+- mewgul (American)
+- cintea
+- mallar

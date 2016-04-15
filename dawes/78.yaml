@@ -1,0 +1,10 @@
+- date: 2014-09-25
+- country: United States
+- state: Texas
+- location: Heritage Ranch, Fairview
+# Birds or six-letter codes, one per line.
+#9/25/2014 Heritage Ranch, Fairview, TX
+#10:20 return from TLP
+- rethaw
+- greegr
+- amekes
