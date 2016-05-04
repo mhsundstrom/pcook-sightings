@@ -1,0 +1,28 @@
+# This line is a comment.
+
+# Blank lines are fine and are ignored.
+
+# We need to select the country.
+# For ease of use, I'll use the United States.
+- country: United States
+
+# If you've chosen the United States, then you should
+# also specify the state. Texas for example
+- state: Texas
+
+# The specs that will change most often are the location and date.
+# Typically what I do is enter the location and then change the date
+# whenever I have a new entry.
+
+# You can use 6 letter codes or the full name.
+# If you enter the full name, enter one per line, start with the dash.
+# Same thing if you have one 6 letter code.
+
+# If you have multiple codes, start with "- codes:"
+
+# The file is processed sequentially. So, for example, if you add a
+# state line at the end, then every sighting after that refers to that
+# state; it doesn't affect the sightings that come before that line.
+
+# That's mostly it. My repo has a number of good examples on this.
+
