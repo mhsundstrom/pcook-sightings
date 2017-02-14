@@ -70,3 +70,5 @@ US-TX-Sherman-6465 Refuge Rd
 US-TX-Lewisville-Jones St - 33.0652x-96.9762
 US-TX-Plano-5901 Los Rios Blvd - 33.0581x-96.6741
 US-TX-McKinney-Town Lake Rec Area Pond - 33.1845x-96.6313
+US-TX-Princeton-Clear Lake Park - 33.0574x-96.4857
+White Rock Lake & Old Fish Hatchery (PPW-W 086)
