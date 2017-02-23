@@ -76,3 +76,4 @@ I35 - MM 1-110 (OK); US82 -Gainesville to Sherman (TX); US75 - Sherman to McKinn
 US-TX-Plano - 33.0580x-96.6732 - Oct 7, 2015, 8:25 AM
 US-TX-Wylie-Collin Park - 33.0465x-96.5316
 US-TX-Royse City-21421 County Road 638 - 33.0399x-96.3318
+US-TX-Wichita Falls-Lake Arrowhead State Park - 33.7546x-98.3889
