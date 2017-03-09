@@ -1,7 +1,7 @@
 - country: Costa Rica
 
 - date: 2015-02-16
-- location:  Trapp Family Country Inn, San Jose
+- location: Trapp Family Country Inn, San Jose
 - rufous-naped wren
 - Tropical Kingbird
 - Prothonotary Warbler
@@ -27,7 +27,7 @@
 - Grayish Saltator
 - Summer Tanager
 
-- location:  Caldera
+- location: Caldera
 - Gray Hawk
 - Common Black Hawk
 - Social Flycatcher
@@ -56,7 +56,7 @@
 - Whimbrel
 - Sandwich Tern
 
-- location:  Guacimo Road
+- location: Guacimo Road
 - Lineated Woodpecker
 - Scrub Euphonia
 - Streak-headed Woodcreeper
@@ -75,7 +75,7 @@
 - Indigo Bunting
 - Painted Bunting
 
-- location:  Puntaleone
+- location: Puntaleone
 - Scarlet Macaw
 - Black-mandibled Toucan
 - Blue-throated Goldentail
@@ -83,7 +83,7 @@
 - Streaked Flycatcher
 - Ruby-throated Hummingbird
 
-- location:  Guacilillo Road
+- location: Guacilillo Road
 - Great Kiskadee
 - Rufous-tailed Hummingbird
 - Blue-black Grassquit
@@ -132,7 +132,7 @@
 - Wood Stork
 
 - date: 2015-02-17
-- location:  Puntaleone
+- location: Puntaleone
 - Blue-crowned Motmot
 - Fiery-billed Aracari
 - Social Flycatcher
@@ -161,7 +161,7 @@
 - Blue-gray Tanager
 - Melodious Blackbird
 
-- location:  Carara National Park
+- location: Carara National Park
 - Cocoa Woodcreeper
 - Greenish Elaenia
 - Pale-billed Woodpecker
@@ -184,7 +184,7 @@
 - Chestnut-sided Warbler
 - Yellow Warbler
 
-- location:  Tarcoles
+- location: Tarcoles
 - Magnificent Frigatebird
 - Brown Pelican (California)
 - White-tipped Dove
@@ -203,7 +203,7 @@
 - Great-tailed Grackle
 - Ferruginous Pygmy-Owl
 
-- location:  Playa Azul
+- location: Playa Azul
 - Zone-tailed Hawk
 - Common Black Hawk
 - Bare-throated Tiger-Heron
@@ -233,7 +233,7 @@
 - Tennessee Warbler
 
 - date: 2015-02-18
-- location:  Puntaleone
+- location: Puntaleone
 - Orange-billed Sparrow (Pacific) #this bird is Arremon aurantiirostris aurantiirostris found on the Pacific slope of Costa Rica, while the one found on the Caribbean slopes is Arremon aurantiirostris rufidorsalis
 - Short-billed Pigeon
 - Double-toothed Kite
@@ -258,7 +258,7 @@
 - Ruddy Ground-Dove
 - Inca Dove
 
-- location:  Road to Bijagua
+- location: Road to Bijagua
 - Brown Pelican (California)
 - Tropical Kingbird
 - Orange-chinned Parakeet
@@ -282,7 +282,7 @@
 - Stripe-headed Sparrow
 - Mottled Owl
 
-- location:  Playa Azul
+- location: Playa Azul
 - Scarlet Macaw
 - Crested Caracara
 - Plain-breasted Ground-Dove
@@ -303,7 +303,7 @@
 - Green Kingfisher
 - Yellow-bellied Flycatcher
 
-- location:  Rio Tarcoles Boat Cruise
+- location: Rio Tarcoles Boat Cruise
 - Mangrove Swallow
 - Great Egret
 - Spotted Sandpiper
@@ -370,7 +370,7 @@
 - Lesser Nighthawk
 
 - date: 2015-02-19
-- location:  Road to Bijagua
+- location: Road to Bijagua
 - White-collared Swift
 - Rufous-capped Warbler
 - Northern Bentbill
@@ -425,7 +425,7 @@
 - Melodious Blackbird
 - Great-tailed Grackle
 
-- location:  LaPaz Waterfall Garden
+- location: LaPaz Waterfall Garden
 - Vaux's Swift
 - White-collared Swift
 - Bananaquit (Mainland)
@@ -456,7 +456,7 @@
 - Rufous-capped Warbler
 - American Dipper (Costa Rican)
 
-- location:  Cicciona
+- location: Cicciona
 - Prong-billed Barbet
 - Palm Tanager
 - Silver-throated Tanager
@@ -471,13 +471,13 @@
 - Red-billed Pigeon
 
 - date: 2015-02-20
-- location:  La Selva
+- location: La Selva
 - Cinnamon Becard
 - Tropical Pewee
 - Montezuma Oropendola
 - Bananaquit (Mainland)
 
-- location:  La Quinta
+- location: La Quinta
 - Blue-gray Tanager
 - Passerini's Tanager
 - Red-lored Parrot
@@ -507,7 +507,7 @@
 - Rufous-tailed Hummingbird
 - Clay-colored Thrush
 
-- location:  Road to Pueblo Nuevo
+- location: Road to Pueblo Nuevo
 - Rock Pigeon
 - Great Tinamou
 - Black-mandibled Toucan
@@ -553,7 +553,7 @@
 - Great-tailed Grackle
 
 - date: 2015-02-21
-- location:  La Quinta
+- location: La Quinta
 - Black-cowled Oriole
 - Black-headed Saltator
 - Lesser Swallow-tailed Swift
@@ -581,7 +581,7 @@
 - Great-tailed Grackle
 - Baltimore Oriole
 
-- location:  La Selva
+- location: La Selva
 - Keel-billed Toucan
 - Black-mandibled Toucan
 - Little Blue Heron
@@ -632,7 +632,7 @@
 - House Wren
 - Golden-winged Warbler
 - Variable Seedeater (Black)  # this bird is Spermophila corvina corvina, while the one found on the Pacific slopes is Spermophila corvina hoffmanni
-- location:  Japanese Guy's Road
+- location: Japanese Guy's Road
 - Dusky-faced Tanager
 - Rufous-winged Woodpecker
 - Long-tailed Tyrant
@@ -659,7 +659,7 @@
 - Montezuma Oropendola
 
 - date: 2015-02-22
-- location:  La Selva
+- location: La Selva
 - Crimson-collared Tanager
 - Passerini's Tanager
 - Blue-gray Tanager
@@ -729,7 +729,7 @@
 - Tropical Kingbird
 - Golden-winged Warbler
 
-- location:  El Tigre Marsh
+- location: El Tigre Marsh
 - Olive-crowned Yellowthroat
 - Red-winged Blackbird
 - Southern Rough-winged Swallow
@@ -744,7 +744,7 @@
 - Brown Jay
 - Variable Seedeater (Black)  # this bird is Spermophila corvina corvina , while the one found on the Pacific slopes is Spermophila corvina hoffmanni
 
-- location:  Rio San Jose
+- location: Rio San Jose
 - Fasciated Tiger-Heron
 - Spotted Sandpiper
 - Louisiana Waterthrush
@@ -762,7 +762,7 @@
 - White-throated Flycatcher
 - Montezuma Oropendola
 
-- location:  El Tapir
+- location: El Tapir
 - Snowcap
 - Green Thorntail
 - Violet-headed Hummingbird
@@ -774,7 +774,7 @@
 - Green-crowned Brilliant
 - Violet Sabrewing
 
-- location:  Casa Turire
+- location: Casa Turire
 - Dusky-capped Flycatcher
 - Mangrove Swallow
 - Giant Cowbird
@@ -787,7 +787,7 @@
 - Northern Jacana
 - Slaty Spinetail
 
-- location:  Rancho Naturalista
+- location: Rancho Naturalista
 - White-necked Jacobin
 - Black-crested Coquette
 - Stripe-throated Hermit
@@ -795,7 +795,7 @@
 - Rufous-tailed Hummingbird
 
 - date: 2015-02-23
-- location:  Rancho Naturalista
+- location: Rancho Naturalista
 - White-necked Jacobin
 - Green Hermit
 - Green-breasted Mango
@@ -843,7 +843,7 @@
 - Turkey Vulture
 - House Wren
 
-- location:  La Mina – Platanillo
+- location: La Mina – Platanillo
 - Green-breasted Mango
 - Blue-and-white Swallow
 - Great-tailed Grackle
@@ -885,7 +885,7 @@
 - Ochre-bellied Flycatcher
 - Gray-headed Chachalaca
 
-- location:  Silent Mountain
+- location: Silent Mountain
 - Chestnut-headed Oropendola
 - Bay-headed Tanager
 - Montezuma Oropendola
@@ -905,7 +905,7 @@
 - Red-billed Pigeon
 - Russet Antshrike
 
-- location:  Rancho Naturalista - Pools
+- location: Rancho Naturalista - Pools
 - White-throated Spadebill
 - Golden-crowned Warbler
 - Wilson's Warbler
@@ -919,7 +919,7 @@
 - Tawny-throated Leaftosser
 
 - date: 2015-02-24
-- location:  Rancho Naturalista
+- location: Rancho Naturalista
 - White-necked Jacobin
 - Green Hermit
 - Stripe-throated Hermit
@@ -1000,7 +1000,7 @@
 - White-crowned Parrot
 - Crimson-fronted Parakeet
 
-- location:  Catie (Post Office)
+- location: Catie (Post Office)
 - Northern Jacana
 - Boat-billed Heron
 - Little Blue Heron
@@ -1024,7 +1024,7 @@
 - Orchard Oriole
 - Baltimore Oriole
 
-- location:  Angostura (Dam)
+- location: Angostura (Dam)
 - Blue-winged Teal
 - Lesser Scaup
 - Brown Jay
@@ -1037,7 +1037,7 @@
 - Hook-billed Kite
 
 - date: 2015-02-25
-- location:  Turrialba Volcano
+- location: Turrialba Volcano
 - Black Vulture
 - Turkey Vulture
 - House Wren
@@ -1105,7 +1105,7 @@
 - Golden-hooded Tanager
 - Groove-billed Ani
 
-- location:  Orosi/Cartago/Cachi Dam
+- location: Orosi/Cartago/Cachi Dam
 - Blue-and-white Swallow
 - Northern Rough-winged Swallow
 - Eastern Meadowlark (Costa Rican) #this bird os Sturnella magna alticola
@@ -1129,11 +1129,11 @@
 - White-eared Ground-sparrow
 - Broad-winged Hawk
 
-- location:  Savegre
+- location: Savegre
 - Dusky Nightjar
 
 - date: 2015-02-26
-- location:  Trogon Lodge – Savegre Valley
+- location: Trogon Lodge – Savegre Valley
 - Violet Sabrewing
 - White-throated Mountain-gem
 - Magnificent Hummingbird
@@ -1183,14 +1183,14 @@
 - Flame-colored Tanager
 - Large-footed Finch
 
-- location:  Cerro de la Muerte
+- location: Cerro de la Muerte
 - Volcano Junco
 - Timberline Wren
 - Black Vulture
 - Sooty-capped Chlorospingus
 
 - date: 2015-02-27
-- location:  Trogon Lodge – Savegre Valley
+- location: Trogon Lodge – Savegre Valley
 - Green Violetear
 - Black Guan
 - Band-tailed Pigeon
@@ -1222,7 +1222,7 @@
 - Sooty-capped Chlorospingus
 - Rufous-browed Peppershrike
 
-- location:  Tolomuko
+- location: Tolomuko
 - Snowy-bellied Hummingbird
 - Stripe-tailed Hummingbird
 - Green-crowned Brilliant
@@ -1242,13 +1242,13 @@
 - Elegant Euphonia
 - White-tailed Emerald
 
-- location:  Restaurant
+- location: Restaurant
 - Broad-winged Hawk
 - Red-legged Honeycreeper
 - Streaked Saltator
 
-- location:  Paraiso Quetzal
+- location: Paraiso Quetzal
 - Fiery-throated Hummingbird
 
-- location:  Hotel Bougainvillea
+- location: Hotel Bougainvillea
 - Tropical Screech-Owl
