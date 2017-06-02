@@ -79,3 +79,4 @@ US-TX-Royse City-21421 County Road 638 - 33.0399x-96.3318
 US-TX-Wichita Falls-Lake Arrowhead State Park - 33.7546x-98.3889
 US-TX-Plano- Oak Point Pk
 US-TX-Lavon-9922-9948 State Highway 205 - 33.0216x-96.4568
+US-TX-Princeton-Ticky Creek Park - 33.1042x-96.4764
