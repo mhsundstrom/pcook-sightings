@@ -1,6 +1,15 @@
+# Comments and explanations
+# Blank lines are ignored and so are lines beginning with '#'
+# If the trip is in the USA you don't have to specify a country
+# If it is you must specify a date, state, and a location.
 - date: 2017-06-26
 - location: US-82 Sherman to Gainesville
 - state: Texas
+# Use codes for multiple sightings, separated by a space.
+# Codes are case-insensitive.
+# Subspecies, i.e., specified with parentheses, can't be any in a codes line.
 - codes: doccor greegr categr turvul miskit rethaw rocpig moudov eucdov
-- chiswi norfli (yellow-shafted) rebwoo amekes weskin sctfly logshr amecro
-- blujay cliswa barswa normoc eursta grtgra houspa houfin
+- codes: chiswi  rebwoo amekes weskin sctfly logshr amecro
+- codes: blujay cliswa barswa normoc eursta grtgra houspa houfin
+# You can also list one bird on each line, either a code or the full name.
+- norfli (yellow-shafted)
